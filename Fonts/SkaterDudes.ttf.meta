@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da6ccc4e837e64645b62437e5ca04077
+timeCreated: 1486435523
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SkaterDudes
+  fontNames:
+  - SkaterDudes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
